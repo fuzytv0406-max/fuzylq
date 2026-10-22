@@ -1,0 +1,8 @@
+strContent = File mod được hoàn thiện bởi <color=#00FF00><i><b>Fuzy LQ</b></i></color>\nTham gia Telegram để nhận các bản MOD mới trực tiếp và thông báo cập nhật game nhanh\nẤn <color=#FFFF00><i>Telegram</i></color> để tham gia.\nẤn <color=#FFFF00><i>Youtube</i></color> để truy cập kênh.
+hasCancelBtn = true
+onConfirm = https://www.youtube.com/@fuzylqmb
+onCancel = https://t.me/fuzylq
+confirmStr = <color=#FF0000>Youtube</color>
+cancelStr = Telegram
+titleStr = <color=#FFD700>UPDATE: 29/09/2026</color>
+isShowCloseBtn = true
